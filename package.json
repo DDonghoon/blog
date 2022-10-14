@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "koa": "^2.13.4",
+    "redux-logger": "^3.0.6"
+  }
+}
